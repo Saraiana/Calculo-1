@@ -1,4 +1,4 @@
-# Calculo-1
+# Calculo-2
 Cálculo utilizando 2 variáveis.
 
 A escola “APRENDER” faz o pagamento de seus professores por hora/aula. 
